@@ -10,6 +10,7 @@ langchainhub = "*"
 python-dotenv = "*"
 pytho = "*"
 azure-identity = "*"
+langchain-groq = "*"
 
 [dev-packages]
 

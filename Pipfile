@@ -7,6 +7,9 @@ name = "pypi"
 langchain = "*"
 langchain-openai = "*"
 langchainhub = "*"
+python-dotenv = "*"
+pytho = "*"
+azure-identity = "*"
 
 [dev-packages]
 
